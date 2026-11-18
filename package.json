@@ -1,0 +1,18 @@
+{
+  "name": "kilerobf",
+  "version": "1.0.0",
+  "description": "kilerobf — SnowVeil V3 Luau Deobfuscator & SVBG CFG Decompiler",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 3000",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p 3000"
+  },
+  "dependencies": {
+    "fengari": "^0.1.4",
+    "lucide-react": "^0.460.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
